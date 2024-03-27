@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: #E9ECEF;
+}
+
+/* istenilen arka plan rengi ayarlandı */
+.jumbotron{
+    background-color: #f8f9fa;
+    height: 70vh;
+}
+
+.bg-body-tertiary{
+    background-color: #2b3035;
+}
+a{
+    color: #808d9a;
+}
+/* products css */
+.card{
+    margin: 20px 0px;
+}
+.card-img-top{
+    height: 300px;
+}
